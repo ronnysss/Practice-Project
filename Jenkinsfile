@@ -10,7 +10,7 @@ url: 'https://github.com/ronnysss/Practice-Project.git'
 }
 stage ('Build'){
 sh '''
-cd Java-Project
+cd Java-project
 mvn clean install '''
 }
 }
