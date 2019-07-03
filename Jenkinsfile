@@ -14,4 +14,3 @@ cd Java-project
 mvn clean install '''
 }
 }
-
